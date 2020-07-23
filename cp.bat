@@ -1,0 +1,1 @@
+copy cmake-build-debug\libMyJNIDemo.dll C:\Windows\System32\ /Y

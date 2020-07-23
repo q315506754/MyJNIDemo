@@ -1,0 +1,6 @@
+#ifndef MYJNIDEMO_LIBRARY_H
+#define MYJNIDEMO_LIBRARY_H
+
+void hello();
+
+#endif //MYJNIDEMO_LIBRARY_H

@@ -1,0 +1,35 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+.vscode
+cmake-build-debug
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+jar_deployment_scripts
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Batch ###
+*.cmd
+*.exe
+
+_temp_update_push_rb.bat
+_temp_update_rb.bat
